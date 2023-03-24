@@ -1,5 +1,5 @@
 import React from "react";
-import Header from './Components/Layout/Header '
+import Header from './Components/Layout/Header'
 function App() {
   return (
     <div>

@@ -1,0 +1,9 @@
+.cart {
+  display: inline;
+  background-color: inherit;
+  float: right;
+  padding-right: 2%;
+}
+.counter{
+    /* background-color: transparent; */
+}
